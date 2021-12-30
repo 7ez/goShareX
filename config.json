@@ -1,0 +1,6 @@
+{
+    "Port": "8080",
+    "AppName": "ShareX Uploader",
+    "UploadKey": "wedoalittletrolling",
+    "Domain": "localhost:8080"
+}
